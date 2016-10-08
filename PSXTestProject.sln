@@ -7,12 +7,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PSXTestProject", "PSXTestPr
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|PSX = Debug|PSX
 		Release|PSX = Release|PSX
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C821FA1-A6C4-46CD-B9F5-F654110C1F6F}.Debug|PSX.ActiveCfg = Debug|Win32
-		{7C821FA1-A6C4-46CD-B9F5-F654110C1F6F}.Debug|PSX.Build.0 = Debug|Win32
 		{7C821FA1-A6C4-46CD-B9F5-F654110C1F6F}.Release|PSX.ActiveCfg = Release|Win32
 		{7C821FA1-A6C4-46CD-B9F5-F654110C1F6F}.Release|PSX.Build.0 = Release|Win32
 	EndGlobalSection
